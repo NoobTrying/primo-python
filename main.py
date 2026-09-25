@@ -5,3 +5,6 @@ if eta >= 18:
     print("Ciao", nome, "sei maggiorenne!")
 else:
     print("Ciao", nome, "sei minorenne!")
+
+
+print("Sto imparando Git e GitHub!")
