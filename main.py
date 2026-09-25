@@ -8,3 +8,4 @@ else:
 
 
 print("Sto imparando Git e GitHub!")
+print("Non capisco niente!")
